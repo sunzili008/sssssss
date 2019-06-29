@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>浏览砍价活动</title>
+  <style type="text/css">
+	html,body,div{margin:0;padding:0;}
+	.top_lb img{width:100%;}
+  </style>
+ </head>
+ <body>
+	 <div class="top_lb"> 
+		<img src="1.jpg"/>
+	 </div>
+ </body>
+</html>
